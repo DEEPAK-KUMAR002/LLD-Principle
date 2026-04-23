@@ -1,4 +1,4 @@
-package Lesson1;
+package Lesson1.Example2.Problematiccode;
 
 public class Employee {
     private int id;
